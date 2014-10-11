@@ -23,6 +23,7 @@ Appendices
  - [Appendix G - Win32 Installation and Setup](https://github.com/chukong/programmers-guide/blob/master/G.md)
  - [Appendix H - WP8 Installation and Setup](https://github.com/chukong/programmers-guide/blob/master/H.md)
  - [Appendix I - Creating A New Example Project](https://github.com/chukong/programmers-guide/blob/master/I.md)
+ - [Appendix J - (experimental) Android with Gradle & Android Studio Installation and Setup](https://github.com/chukong/programmers-guide/blob/master/I.md)
 
 Chapters
 --------
